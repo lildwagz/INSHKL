@@ -663,7 +663,7 @@ fi
 
 
 bka(){
-pass="HmmYa"
+pass="Friends"
 read -sp $"input your code: " token;
 
 
